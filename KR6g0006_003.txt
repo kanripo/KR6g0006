@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:54.110394
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 涅槃玄義發源機要
 #+PROPERTY: CBETA_ID T38n1766
 #+PROPERTY: ID KR6g0006
