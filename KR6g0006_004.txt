@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:54.142116
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 涅槃玄義發源機要
 #+PROPERTY: CBETA_ID T38n1766
 #+PROPERTY: ID KR6g0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1766
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0006_T_000-0015a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0006_T_004-0035a> ¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 涅槃玄義發源機要卷第四¶
+涅槃玄義發源機要卷第四¶
 ¶
 宋錢塘沙門釋智圓述¶
 
@@ -451,7 +450,7 @@
 此皆疏主謙也。謂心思經旨如盲觸象。豈識¶
 全軀。口說經文如夢談刀。故非實有。二以大¶
 下著述時處二。初明時處二。初示染筆時處。¶
-大業即隋煬年號。十年即甲戌歲也。廬于天¶
+大業即隋煬年號。十年即甲戍歲也。廬于天¶
 台之南者。小爾雅云。廬寄也。謂寄止也。亦別¶
 舍也。黃帝為廬。以避寒暑。春秋去之。冬夏居¶
 之。故云寄止也。神邕天台雜記云。赤城為南¶

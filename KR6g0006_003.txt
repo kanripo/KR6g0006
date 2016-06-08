@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:54.110394
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 涅槃玄義發源機要
 #+PROPERTY: CBETA_ID T38n1766
 #+PROPERTY: ID KR6g0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1766
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0006_T_000-0015a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0006_T_003-0028b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 涅槃玄義發源機要卷第三¶
+涅槃玄義發源機要卷第三¶
 ¶
 宋錢塘沙門釋智圓述¶
 

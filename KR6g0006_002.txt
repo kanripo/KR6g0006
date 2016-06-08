@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:03:54.073592
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 涅槃玄義發源機要
 #+PROPERTY: CBETA_ID T38n1766
 #+PROPERTY: ID KR6g0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1766
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0006_T_000-0015a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0006_T_002-0022a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 涅槃玄義發源機要卷第二¶
+涅槃玄義發源機要卷第二¶
 ¶
 宋錢塘沙門釋智圓述¶
 
@@ -265,8 +264,7 @@
 方便者。隨四悉機施設假名也。動樹舉扇喻¶
 名相。月喻實理。文云下即第二十一文也。坻¶
 羅婆夷疏云。是鷃雀一音二名。智度下論四¶
-十六文也。更設五陰等者。開心故成五陰。¶
-開色故成十二入。心色俱開故成十八界。故¶
+十六文也。更設五陰等者。開心故成五陰。開色故成十二入。心色俱開故成十八界。故¶
 此三科不出色心楓柟。或復下所列諸名散在¶
 經文。欲有見無明四流所不能漂。名洲陼。爾¶
 雅曰。水中可居曰洲。小洲曰陼。能遮煩惱惡¶
